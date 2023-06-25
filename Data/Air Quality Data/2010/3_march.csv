@@ -1,0 +1,156 @@
+tanggal,stasiun,pm10,so2,co,o3,no2,max,critical,categori
+2010-03-01,DKI1 (Bunderan HI),60,5,39,44,19,60,PM10,SEDANG
+2010-03-02,DKI1 (Bunderan HI),74,8,56,68,27,74,PM10,SEDANG
+2010-03-03,DKI1 (Bunderan HI),54,12,35,77,25,77,O3,SEDANG
+2010-03-04,DKI1 (Bunderan HI),59,9,32,62,20,62,O3,SEDANG
+2010-03-05,DKI1 (Bunderan HI),62,11,35,31,19,62,PM10,SEDANG
+2010-03-06,DKI1 (Bunderan HI),72,10,54,43,23,72,PM10,SEDANG
+2010-03-07,DKI1 (Bunderan HI),59,7,46,57,19,59,PM10,SEDANG
+2010-03-08,DKI1 (Bunderan HI),56,7,37,39,18,56,PM10,SEDANG
+2010-03-09,DKI1 (Bunderan HI),45,5,33,27,15,45,PM10,BAIK
+2010-03-10,DKI1 (Bunderan HI),44,8,37,41,19,44,PM10,BAIK
+2010-03-11,DKI1 (Bunderan HI),51,6,37,18,14,51,PM10,SEDANG
+2010-03-12,DKI1 (Bunderan HI),43,6,42,39,20,43,PM10,BAIK
+2010-03-13,DKI1 (Bunderan HI),74,9,46,64,16,74,PM10,SEDANG
+2010-03-14,DKI1 (Bunderan HI),61,9,27,27,13,61,PM10,SEDANG
+2010-03-15,DKI1 (Bunderan HI),52,8,28,30,15,52,PM10,SEDANG
+2010-03-16,DKI1 (Bunderan HI),40,5,25,45,13,45,O3,BAIK
+2010-03-17,DKI1 (Bunderan HI),50,8,30,25,15,50,PM10,BAIK
+2010-03-18,DKI1 (Bunderan HI),58,10,33,23,15,58,PM10,SEDANG
+2010-03-19,DKI1 (Bunderan HI),63,10,44,36,18,63,PM10,SEDANG
+2010-03-20,DKI1 (Bunderan HI),54,11,29,66,19,66,O3,SEDANG
+2010-03-21,DKI1 (Bunderan HI),52,7,33,31,16,52,PM10,SEDANG
+2010-03-22,DKI1 (Bunderan HI),37,5,22,15,10,37,PM10,BAIK
+2010-03-23,DKI1 (Bunderan HI),52,9,44,42,29,52,PM10,SEDANG
+2010-03-24,DKI1 (Bunderan HI),---,7,41,99,29,99,O3,SEDANG
+2010-03-25,DKI1 (Bunderan HI),55,9,33,46,20,55,PM10,SEDANG
+2010-03-26,DKI1 (Bunderan HI),48,4,45,57,29,57,O3,SEDANG
+2010-03-27,DKI1 (Bunderan HI),61,18,41,59,16,61,PM10,SEDANG
+2010-03-28,DKI1 (Bunderan HI),56,4,44,45,13,56,PM10,SEDANG
+2010-03-29,DKI1 (Bunderan HI),50,2,34,27,25,50,PM10,BAIK
+2010-03-30,DKI1 (Bunderan HI),44,6,33,---,12,44,PM10,BAIK
+2010-03-31,DKI1 (Bunderan HI),58,5,57,---,14,58,PM10,SEDANG
+2010-03-01,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-02,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-03,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-04,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-05,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-06,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-07,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-08,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-09,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-10,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-11,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-12,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-13,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-14,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-15,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-16,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-17,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-18,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-19,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-20,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-21,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-22,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-23,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-24,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-25,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-26,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-27,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-28,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-29,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-30,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-31,DKI2 (Kelapa Gading),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-01,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-02,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-03,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-04,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-05,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-06,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-07,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-08,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-09,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-10,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-11,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-12,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-13,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-14,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-15,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-16,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-17,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-18,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-19,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-20,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-21,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-22,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-23,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-24,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-25,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-26,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-27,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-28,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-29,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-30,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-31,DKI3 (Jagakarsa),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-01,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-02,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-03,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-04,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-05,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-06,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-07,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-08,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-09,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-10,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-11,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-12,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-13,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-14,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-15,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-16,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-17,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-18,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-19,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-20,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-21,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-22,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-23,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-24,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-25,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-26,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-27,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-28,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-29,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-30,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-31,DKI4 (Lubang Buaya),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-01,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-02,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-03,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-04,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-05,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-06,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-07,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-08,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-09,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-10,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-11,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-12,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-13,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-14,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-15,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-16,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-17,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-18,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-19,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-20,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-21,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-22,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-23,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-24,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-25,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-26,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-27,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-28,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-29,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-30,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
+2010-03-31,DKI5 (Kebon Jeruk),---,---,---,---,---,0,,TIDAK ADA DATA
