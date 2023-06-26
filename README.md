@@ -1,6 +1,6 @@
-# Air Quality Forecasting at Central Jakarta City using Long Short-Term Memory and Support-Vector Regression
+# Comparing Long Short-Term Memory (LSTM) and Support-Vector Regression (SVR) for Air Quality Forecasting
 
-This repo contains Datasets and Models used for my undergraduate thesis project. Datasets used in this project range from 2010 to 2019 and both Models are used not as a hybrid method but as a comparison from one to the other. The table of contents below will help you to navigate through this project.
+This repo contains Datasets and Models used for my undergraduate thesis project. Datasets used in this project range from 2010 to 2019 because in 2020 and there has been a pandemic, and both Models are used not as a hybrid method but as a comparison from one to the other. The table of contents below will help you to navigate through this project.
 
 ## Table of Contents
 - Data
